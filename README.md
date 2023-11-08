@@ -1,4 +1,8 @@
-### Hi there 👋 Welcome to my profile
+<h1 align="center">Hi :wave:, I'm Pratik Ganjale</h1>
+<img src="https://media.licdn.com/dms/image/C5616AQEc_7jrBkWsOg/profile-displaybackgroundimage-shrink_200_800/0/1644153227849?e=2147483647&v=beta&t=A0I4Oa65WKe97l7_6NezKZrrlCnvTynI1XlK14sKIdU" width=100%/>
+<h3 >I am Full Stack Developer(MERN)</h3>
+<p>As a Full Stack Developer, I have experience building web applications from the ground up. I'm comfortable working with both front-end and back-end technologies, and I enjoy collaborating with designers, developers, and other stakeholders to create beautiful, functional, and scalable applications.</p>
+
 
 * My name is Dheeraj Bisht ([dheerajBisht7](https://twitter.com/DheerajBisht7) on Twitter).
 * Passionate full-stack developer currently strengthening my skills at Masai School Bootcamp.
