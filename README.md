@@ -1,10 +1,10 @@
 <h1 align="center">Hi :wave:, I'm Dheeraj Bisht</h1>
 <img src="https://media.licdn.com/dms/image/C5616AQEc_7jrBkWsOg/profile-displaybackgroundimage-shrink_200_800/0/1644153227849?e=2147483647&v=beta&t=A0I4Oa65WKe97l7_6NezKZrrlCnvTynI1XlK14sKIdU" width=100%/>
-<h3 >I am Full Stack Developer(MERN)</h3>
-<p>As a Full Stack Developer, I have experience building web applications from the ground up. I'm comfortable working with both front-end and back-end technologies, and I enjoy collaborating with designers, developers, and other stakeholders to create beautiful, functional, and scalable applications.</p>
+<h3 >Full Stack Developer(MERN)</h3>
+<p>As a Full Stack Developer, built web applications from the ground up, handling both front-end and back-end technologies. Collaborating with designers, developers, and stakeholders is something I enjoy, ensuring we craft applications that are not just functional and scalable but also beautiful.</p>
 
 
-* My name is Dheeraj Bisht ([dheerajBisht7](https://twitter.com/DheerajBisht7) on Twitter).
+* Dheeraj Bisht ([dheerajBisht7](https://twitter.com/DheerajBisht7) on Twitter).
 * Passionate full-stack developer currently strengthening my skills at Masai School Bootcamp.
 * Worked on 4+ colaborative projects
 
@@ -19,6 +19,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp; ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+
+
+<img alt="Dheeraj Bisht languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajbisht362&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dheerajbisht362&show_icons=true&locale=en&theme=highcontrast" alt="dheerajbisht362" />
+  
+
 
 ## You can find more about me, send me an email or just say "Hi" here: 
 
